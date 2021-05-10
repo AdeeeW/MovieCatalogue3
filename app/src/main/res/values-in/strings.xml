@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DEFILMS</string>
+    <string name="genre_film">Genre Film</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="settings">Pengaturan</string>
+    <string name="settings_language">Pengaturan Bahasa</string>
+    <string name="text_genre">genre</string>
+    <string name="title_film">Judul Film</string>
+    <string name="rating">Peringkat</string>
+    <string name="language">Bahasa</string>
+    <string name="date_releas">Tanggal Rilis</string>
+    <string name="description">Deskripsi</string>
+    <string name="origin_country">Negara Produksi</string>
+    <string name="first_releas">Pertama Rilis</string>
+    <string name="genre_tv_show">Genre Tv Show</string>
+    <string name="title_tv_show">Judul Tv Show</string>
+    <string name="title">Judul</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite">Favorite</string>
+</resources>
